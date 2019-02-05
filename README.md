@@ -9,4 +9,4 @@ Things to do before using the project.
 4. Also note you will have to modify the code slightly to suit c or c++ based builds
 
 
-If you use this please give a star.
+# If you use this please give a star.
