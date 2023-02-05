@@ -24,3 +24,7 @@ Download VLC Source Code
 
 
 # If you use this please give a star.
+
+
+
+![alt text](https://github.com/anubhavrohatgi/VLC-QT-plugin/blob/2ab3dafd8441ae06170125ca6603166a161d6c74/Screenshot%20from%202023-02-04%2017-45-59.png?raw=true)
