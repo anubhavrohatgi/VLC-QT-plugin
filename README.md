@@ -15,8 +15,11 @@ sudo apt-get install build-essential cmake unzip pkg-config libjpeg-dev libpng-d
 Download VLC Source Code
 
 ## Commands: 
+
 ./bootstrap
+
 ./configure --enable-alsa --enable-avcodec --enable-avformat --enable-swscale --enable-qt --enable-ogg --enable-ffmpeg --enable-libmpeg2 --enable-freetype --enable-a52 --prefix=/usr/local
+
 ./compile
 
 
